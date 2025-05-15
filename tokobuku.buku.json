@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6825422356455079996c4bd0"
+  },
+  "isbn": "9786020321234",
+  "judul": "Laskar Pelangi",
+  "penulis": "Andrea Hirata",
+  "penerbit": "Bentang Pustaka",
+  "tahun_terbit": 2005,
+  "stok": 10,
+  "harga": 95000
+},
+{
+  "_id": {
+    "$oid": "6825422356455079996c4bd1"
+  },
+  "isbn": "9786020325678",
+  "judul": "Negeri 5 Menara",
+  "penulis": "Ahmad Fuadi",
+  "penerbit": "Gramedia",
+  "tahun_terbit": 2009,
+  "stok": 8,
+  "harga": 85000
+}]
